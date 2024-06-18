@@ -1,0 +1,46 @@
+{
+  "name": "Home",
+  "path": "/",
+  "sections": [
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "site/sections/Social.tsx"
+    },
+    {
+      "__resolveType": "site/sections/Links.tsx",
+      "links": [
+        {
+          "icon": "ArrowLeft",
+          "label": "Deco Pilot",
+          "href": "https://deco.cx/docs/en/decopilot/how-to-access"
+        },
+        {
+          "icon": "ArrowLeft",
+          "label": "deco.cx - Apps",
+          "href": "https://github.com/deco-cx/apps"
+        },
+        {
+          "icon": "ArrowLeft",
+          "label": "message.ts",
+          "href": "https://github.com/deco-cx/apps/blob/main/ai-assistants/chat/messages.ts"
+        },
+        {
+          "icon": "ArrowLeft",
+          "label": "assistant.ts",
+          "href": "https://github.com/deco-cx/apps/blob/main/brand-assistant/loaders/assistant.ts"
+        },
+        {
+          "icon": "ArrowLeft",
+          "label": "Instruções para instalação",
+          "href": "https://github.com/deco-sites/storefront/blob/sales-assistant/assistant/ASSISTANT.md"
+        }
+      ]
+    },
+    {
+      "__resolveType": "Footer"
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}

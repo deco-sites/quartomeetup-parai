@@ -1,0 +1,10 @@
+{
+  "__resolveType": "site/sections/Header.tsx",
+  "title": "<p>🌟 4° Meetup do Paraí 🌟 </p>",
+  "description": "<p>Itamar Links :D</p>",
+  "logo": {
+    "img": "https://media-for1-1.cdn.whatsapp.net/v/t61.24694-24/425099593_251240708031507_4295499443480827896_n.jpg?ccb=11-4&oh=01_Q5AaIHeAIueysXqEoTm8Z3zlO2xwBg_98qy9KSD4gRRAMANl&oe=667EE37E&_nc_sid=e6ed6c&_nc_cat=104",
+    "width": 60,
+    "height": 60
+  }
+}
