@@ -6,7 +6,17 @@
       "__resolveType": "Header"
     },
     {
-      "__resolveType": "site/sections/Social.tsx"
+      "__resolveType": "site/sections/Social.tsx",
+      "social": [
+        {
+          "label": "Instagram",
+          "href": "https://www.instagram.com/comunidade.parai/"
+        },
+        {
+          "label": "Linkedin",
+          "href": "https://www.linkedin.com/company/para%C3%AD-comunidade-t%C3%A9cnica-de-ia-da-para%C3%ADba/posts/?feedView=all"
+        }
+      ]
     },
     {
       "__resolveType": "site/sections/Links.tsx",
@@ -35,6 +45,11 @@
           "icon": "ArrowLeft",
           "label": "Instruções para instalação",
           "href": "https://github.com/deco-sites/storefront/blob/sales-assistant/assistant/ASSISTANT.md"
+        },
+        {
+          "icon": "ArrowLeft",
+          "label": "Meu link tree - Itamar",
+          "href": "https://itamarlinks.deco.site/"
         }
       ]
     },
